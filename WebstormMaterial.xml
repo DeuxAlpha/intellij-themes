@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>Material</id>
+  <editorColorsScheme></editorColorsScheme>
+  <dark>true</dark>
+  <name>WebStorm</name>
+  <colors>
+    <color id="background" value="0e1211ff"/>
+    <color id="foreground" value="b0bec5ff"/>
+    <color id="text" value="727272ff"/>
+    <color id="highlight" value="28333fff"/>
+    <color id="selectionBackground" value="263f40bd"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2a2a2aff"/>
+    <color id="secondaryBackground" value="091113cd"/>
+    <color id="disabled" value="1f1f1fff"/>
+    <color id="contrast" value="090a0aff"/>
+    <color id="tableSelected" value="323232ff"/>
+    <color id="secondBorder" value="292929ff"/>
+    <color id="treeSelection" value="254d4bc0"/>
+    <color id="notifications" value="1a1a1aff"/>
+    <color id="accent" value="5bffbaff"/>
+    <color id="excluded" value="323232ff"/>
+  </colors>
+  <themeId>Material</themeId>
+</mtTheme>

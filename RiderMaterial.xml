@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>Material</id>
+  <editorColorsScheme></editorColorsScheme>
+  <dark>true</dark>
+  <name>Rider</name>
+  <colors>
+    <color id="background" value="150f15ff"/>
+    <color id="foreground" value="b0bec5ff"/>
+    <color id="text" value="727272ff"/>
+    <color id="highlight" value="81129281"/>
+    <color id="selectionBackground" value="3f3340ff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="252425ff"/>
+    <color id="secondaryBackground" value="1c1422dd"/>
+    <color id="disabled" value="474747ff"/>
+    <color id="contrast" value="080808ff"/>
+    <color id="tableSelected" value="323232ff"/>
+    <color id="secondBorder" value="292929ff"/>
+    <color id="treeSelection" value="1d111cc0"/>
+    <color id="notifications" value="140f13ff"/>
+    <color id="accent" value="9855ffff"/>
+    <color id="excluded" value="323232ff"/>
+  </colors>
+  <themeId>Material</themeId>
+</mtTheme>

@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>Material</id>
+  <editorColorsScheme></editorColorsScheme>
+  <dark>true</dark>
+  <name>DataGrip</name>
+  <colors>
+    <color id="background" value="2e3143ff"/>
+    <color id="foreground" value="b0bec5ff"/>
+    <color id="text" value="727272ff"/>
+    <color id="highlight" value="152859e5"/>
+    <color id="selectionBackground" value="2f334eac"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="2a2a2aff"/>
+    <color id="secondaryBackground" value="1e202bff"/>
+    <color id="disabled" value="232323ff"/>
+    <color id="contrast" value="131313ff"/>
+    <color id="tableSelected" value="323232ff"/>
+    <color id="secondBorder" value="292929ff"/>
+    <color id="treeSelection" value="1a294883"/>
+    <color id="notifications" value="16151aff"/>
+    <color id="accent" value="455bd5ff"/>
+    <color id="excluded" value="323232ff"/>
+  </colors>
+  <themeId>Material</themeId>
+</mtTheme>
