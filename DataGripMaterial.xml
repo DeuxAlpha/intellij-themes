@@ -1,13 +1,13 @@
 <mtTheme>
-  <id>Material</id>
+  <id>MaterialDataGrip</id>
   <editorColorsScheme></editorColorsScheme>
   <dark>true</dark>
-  <name>DataGrip</name>
+  <name>MaterialDataGrip</name>
   <colors>
     <color id="background" value="2e3143ff"/>
     <color id="foreground" value="b0bec5ff"/>
     <color id="text" value="727272ff"/>
-    <color id="highlight" value="152859e5"/>
+    <color id="highlight" value="538ca5e5"/>
     <color id="selectionBackground" value="2f334eac"/>
     <color id="selectionForeground" value="ffffffff"/>
     <color id="button" value="2a2a2aff"/>
@@ -21,5 +21,5 @@
     <color id="accent" value="455bd5ff"/>
     <color id="excluded" value="323232ff"/>
   </colors>
-  <themeId>Material</themeId>
+  <themeId>MaterialDataGrip</themeId>
 </mtTheme>
